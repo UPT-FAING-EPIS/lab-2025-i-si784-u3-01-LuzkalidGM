@@ -1,5 +1,6 @@
 name: Tarea Automatizada de ejecución de pruebas
 
+
 env:
   DOTNET_VERSION: '8.x'                     # la versión de .NET
   SONAR_ORG: 'luzkalidgm'                    # Nombre de la organización de sonar cloud
